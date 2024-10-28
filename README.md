@@ -1,3 +1,2 @@
 Welcome! This is my Applied Data Science Project On PLANT LEAF DETETCTION.
-This project contains the dataset collected by me inside my college campus itself.
-Each code is written in python.
+My Role was Model Training and Testing Head. Workingon a DataSet of almost 3,000  leaf images as training data available inside my College Campus.
